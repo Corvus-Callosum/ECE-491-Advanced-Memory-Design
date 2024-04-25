@@ -1,6 +1,6 @@
 # 256-bit SRAM Memory Block
 
-This project delves into the inner workings of a Static Random-Access Memory (SRAM) cell by visualizing the various signals involved in read and write operations. It focuses on a specific cell located at Row 2, Column 3 within the memory.
+This project delves into the inner workings of a Static Random-Access Memory (SRAM) cell by visualizing the various signals involved in read and write operations. It focuses on a a single read-write operation within a single cell of the memory array.
 
 Here's a breakdown of the analyzed signals:
 
